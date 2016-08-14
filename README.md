@@ -1,4 +1,3 @@
-# gatsby-starter-default
-The default Gatsby starter
+# RT Metal Products
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+Website source code for rtmetal.ca.
