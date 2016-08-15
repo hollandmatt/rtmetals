@@ -30,51 +30,51 @@ module.exports = React.createClass({
               padding: `${rhythm(1)} ${rhythm(3/4)}`,
             }}
           >
-          <Link
-            to={prefixLink('/')}
-            style={{
-              color: 'black',
-              textDecoration: 'none',
-            }}
-          >
-            RT Metal Products
-          </Link>
-          <Link
-            to={prefixLink('/about-us/')}
-            style={{
-              color: 'black',
-              textDecoration: 'none',
-            }}
-          >
-            About Us
-          </Link>
-          <Link
-            to={prefixLink('/what-we-do/')}
-            style={{
-              color: 'black',
-              textDecoration: 'none',
-            }}
-          >
-            What We Do
-          </Link>
-          <Link
-            to={prefixLink('/contact-us/')}
-            style={{
-              color: 'black',
-              textDecoration: 'none',
-            }}
-          >
-            Contact Us
-          </Link>
-          <Link
-            to={prefixLink('/careers/')}
-            style={{
-              color: 'black',
-              textDecoration: 'none',
-            }}
-          >
-            Careers
-          </Link>
+            <Link
+              to={prefixLink('/')}
+              style={{
+                color: 'black',
+                textDecoration: 'none',
+              }}
+            >
+              RT Metal Products
+            </Link>
+            <Link
+              to={prefixLink('/about-us/')}
+              style={{
+                color: 'black',
+                textDecoration: 'none',
+              }}
+            >
+              About Us
+            </Link>
+            <Link
+              to={prefixLink('/what-we-do/')}
+              style={{
+                color: 'black',
+                textDecoration: 'none',
+              }}
+            >
+              What We Do
+            </Link>
+            <Link
+              to={prefixLink('/contact-us/')}
+              style={{
+                color: 'black',
+                textDecoration: 'none',
+              }}
+            >
+              Contact Us
+            </Link>
+            <Link
+              to={prefixLink('/careers/')}
+              style={{
+                color: 'black',
+                textDecoration: 'none',
+              }}
+            >
+              Careers
+            </Link>
           </Container>
         </Headroom>
         <Container

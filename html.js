@@ -30,8 +30,8 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
-          <meta name="description" content="Located in Vancouver, British Columbia, Canada. R.T. Metal Products Ltd. core competency is to cut, thread, and bend various steels into custom Anchor Bolts, U-Bolts, and similar products. To complement our manufacturing capabilities we can also Thread and custom bend all your Rebar requirements."/>
-          <meta name="keywords" content="ANCHOR BOLTS, BOLTS, THREADING, ROLL THREADING, REBAR, REBAR CUTTING, REBAR BENDING, GALVANIZED ANCHOR BOLTS, CUSTOM ANCHOR BOLTS, STIRRUPS, TIES, PIPE THREADING, U-BOLTS, J-BOLTS, COUPLERS, POST BRACKETS, BURRARD COUPLERS, FERRULE LOOPS, FLAT WASHERS, HEX NUTS, SAG ROD"/>
+          <meta name="description" content="Located in Vancouver, British Columbia, Canada. R.T. Metal Products Ltd. core competency is to cut, thread, and bend various steels into custom Anchor Bolts, U-Bolts, and similar products. To complement our manufacturing capabilities we can also Thread and custom bend all your Rebar requirements." />
+          <meta name="keywords" content="ANCHOR BOLTS, BOLTS, THREADING, ROLL THREADING, REBAR, REBAR CUTTING, REBAR BENDING, GALVANIZED ANCHOR BOLTS, CUSTOM ANCHOR BOLTS, STIRRUPS, TIES, PIPE THREADING, U-BOLTS, J-BOLTS, COUPLERS, POST BRACKETS, BURRARD COUPLERS, FERRULE LOOPS, FLAT WASHERS, HEX NUTS, SAG ROD" />
           <title>{title}</title>
           <link rel="shortcut icon" href={this.props.favicon} />
           <TypographyStyle typography={typography} />
