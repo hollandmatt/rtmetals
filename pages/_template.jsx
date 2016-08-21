@@ -35,6 +35,7 @@ module.exports = React.createClass({
               style={{
                 color: 'black',
                 textDecoration: 'none',
+                marginRight: rhythm(1)
               }}
             >
               RT Metal Products
@@ -44,6 +45,7 @@ module.exports = React.createClass({
               style={{
                 color: 'black',
                 textDecoration: 'none',
+                marginRight: rhythm(1/2)
               }}
             >
               About Us
@@ -53,6 +55,7 @@ module.exports = React.createClass({
               style={{
                 color: 'black',
                 textDecoration: 'none',
+                marginRight: rhythm(1/2)
               }}
             >
               What We Do
@@ -62,6 +65,7 @@ module.exports = React.createClass({
               style={{
                 color: 'black',
                 textDecoration: 'none',
+                marginRight: rhythm(1/2)
               }}
             >
               Contact Us
@@ -70,7 +74,7 @@ module.exports = React.createClass({
               to={prefixLink('/careers/')}
               style={{
                 color: 'black',
-                textDecoration: 'none',
+                textDecoration: 'none'
               }}
             >
               Careers
