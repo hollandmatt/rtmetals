@@ -3,6 +3,7 @@ import React from 'react'
 // import { prefixLink } from 'gatsby-helpers'
 import DocumentTitle from 'react-document-title'
 import { config } from 'config'
+import { rhythm } from 'utils/typography'
 
 // Styles for highlighted code blocks.
 import 'css/zenburn.css'
@@ -18,7 +19,7 @@ export default class Index extends React.Component {
           devoted to making your Anchor bolt purchasing experience with us an
           easy one. We focus on delivering our promise.
           </div>
-          <div style={{ marginTop: 10 }}>
+          <div style={{ marginTop: rhythm(1) }}>
             <ul>
               <li>Buy local. Why pay for freight, long lead times, brokerage, tax,
               and deal with exchange? We can react to any changes or rushes more
